@@ -9,5 +9,5 @@ est_etudiant = True
 print(f"Bonjour, je m'appel {prenom} {nom} et j'ai {age} je fait {taille} \n et je sui {est_etudiant}")
 
 plateformes_sociales = ["Facebook", "Instagram", "Snapchat", "Twitter"]
-plateformes_sociales.append("Discord")
+plateformes_sociales.pop()
 print(plateformes_sociales)
