@@ -1,1 +1,1 @@
-rtvgubhi
+print("hello, world!")
